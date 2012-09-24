@@ -1,1 +1,1 @@
-This repository has been relocated to https://github.com/Benvie/es6-collections
+This repository has been relocated to https://github.com/Benvie/harmony-collections
